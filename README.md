@@ -1,10 +1,5 @@
-# cartoonify-me
-Desktop image processing app that applies cartoon, anime (AnimeGANv2), pencil sketch, and edge effects using Python.
-
-
 # 🎨 Cartoonify Me
-
-A professional desktop application built with Python that transforms images into cartoon-style, anime-style, pencil sketches, and edge maps using computer vision and deep learning techniques.
+Desktop image processing app that applies cartoon, anime (AnimeGANv2), pencil sketch, and edge effects using Python.
 
 ## ✨ Features
 - Upload and preview images
